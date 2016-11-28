@@ -1,3 +1,4 @@
 # example
 
-Test github
+Test git
+
